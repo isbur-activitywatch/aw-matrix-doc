@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\tools\\miniconda3\\python.exe",
+    //%windir%\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy ByPass -NoExit -Command "& 'C:\tools\miniconda3\shell\condabin\conda-hook.ps1' ; conda activate 'C:\tools\miniconda3' "
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "ByPass", "-NoExit", "-Command", "& 'C:\\tools\\miniconda3\\shell\\condabin\\conda-hook.ps1' ; conda activate 'C:\\tools\\miniconda3' "]
+}
