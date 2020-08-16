@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T20:42:39.140Z" agent="5.0 (Windows)" etag="gCN9pFI1dbWZBdY4fXoi" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T20:48:43.486Z" agent="5.0 (Windows)" etag="HOwPNyh4xmz9-1Ap4RUB" version="13.6.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kBeq69DackIkNgG58orV-1" value="&lt;div&gt;Activitywatch Server&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeq69DackIkNgG58orV-2" value="&lt;div&gt;Matrix Server&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeq69DackIkNgG58orV-3" value="&lt;div&gt;Bridge&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeq69DackIkNgG58orV-4" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeq69DackIkNgG58orV-5" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="10" height="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
